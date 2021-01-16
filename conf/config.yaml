@@ -1,0 +1,14 @@
+app:
+  name: "XxxxApiClient"
+  port: "8771"
+  host: "127.0.0.1"
+  mode: "debug"
+etcd:
+  host: "127.0.0.1"
+  port: "2379"
+jaeger:
+  host: "127.0.0.1"
+  port: "6831"
+  name: "XxxxApiClient"
+userMicroName:
+  name: "micro.User.server"
